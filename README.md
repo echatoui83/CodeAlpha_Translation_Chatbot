@@ -1,4 +1,4 @@
-# 🧠 NLP Projects
+# 🧠 CodeAlpha Projects
 
 Two AI-powered web applications built as part of an NLP course, using **React**, **Vite**, and the **Claude API** (Anthropic).
 
