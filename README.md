@@ -93,7 +93,7 @@ VITE_ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxx
 ## 📂 Repository Structure
 
 ```
-nlp-projects/
+CodeAlpha-projects/
 ├── task1-translation-tool/
 │   ├── src/
 │   │   ├── App.jsx          # Translation UI + Claude API calls
